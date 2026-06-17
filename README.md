@@ -6,6 +6,7 @@ Written for SQL Server and designed for day-to-day business intelligence use.
 
 
 About This Repository
+
 These queries were written against a live publishing CRM and sales relational database.
 They supported sales teams, regional managers, and executive stakeholders with actionable
 reporting on revenue performance, contact outreach, and advertisement tracking.
